@@ -1,0 +1,4 @@
+Name:multifunction refer software
+Version:0.0.0
+Auther:Li chungang
+Descrip:someday,you forget data but you want to knew,you can using the sofeware.and refer calss schdule,calenter and so on.This is my first small software,I will continue write some.come on!
